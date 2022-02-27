@@ -20,6 +20,7 @@ func main() {
 		"Harry Potter and the Chamber of Secrets",
 	}
 
+	//Checking args and routing associated functions
 	if len(args) > 1 {
 
 		switch args[1] {
